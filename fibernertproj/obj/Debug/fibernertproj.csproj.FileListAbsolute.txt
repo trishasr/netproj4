@@ -68,6 +68,6 @@ C:\Users\abina\source\repos\fibernertproj\fibernertproj\bin\Microsoft.AspNet.Fri
 C:\Users\abina\source\repos\fibernertproj\fibernertproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\abina\source\repos\fibernertproj\fibernertproj\obj\Debug\fibernertproj.csproj.AssemblyReference.cache
 C:\Users\abina\source\repos\fibernertproj\fibernertproj\obj\Debug\fibernertproj.csproj.CoreCompileInputs.cache
-C:\Users\abina\source\repos\fibernertproj\fibernertproj\obj\Debug\fibernertproj.csproj.CopyComplete
 C:\Users\abina\source\repos\fibernertproj\fibernertproj\obj\Debug\fibernertproj.dll
 C:\Users\abina\source\repos\fibernertproj\fibernertproj\obj\Debug\fibernertproj.pdb
+C:\Users\abina\source\repos\fibernertproj\fibernertproj\obj\Debug\fiberner.C4BB7069.Up2Date
